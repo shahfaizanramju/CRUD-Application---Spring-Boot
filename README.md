@@ -1,5 +1,5 @@
 # CRUD-Application---Spring-Boot
-Created an extensive CRUD application using Spring Boot, Java, and PostgreSQL. The application feature as create, read, update and update.
+Created an extensive CRUD application using Spring Boot, Java, and PostgreSQL. The application feature as create, read, update and delete.
 
 **Objective:** - The objectives of a CRUD application are to enable efficient management of data by allowing users to create, read, update, and delete records easily. It aims to provide a user-friendly interface with robust data validation to ensure accuracy. Security measures will protect sensitive information through authentication and authorization.
 
