@@ -1,2 +1,2 @@
 # CRUD-Application---Spring-Boot
-Fully Backend CRUD(Create, Read Update, Delete) application using spring-boot with java and connecting with PostgreSQL 
+Created an extensive CRUD application using Spring Boot, Java, and PostgreSQL. The application feature as create, read, update and update.
